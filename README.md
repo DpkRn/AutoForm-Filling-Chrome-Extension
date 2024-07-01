@@ -1,4 +1,8 @@
 # Regular use chrome extension
+This repo contains various types of chrome extensions that will help you in regular use. you need to just add to your chrome. i made it because it is really helpfull to me at core level and many of it is uniqe that is not available in chrome web store. this all extension i created while practicing. time to time i ll add many useful chrome extensions so you can fork it. and also if anyone want to contribute please go a head i ll appriciete it. thanku
+
+
+
 Gmail: d.wizard.techno@gmail.com  <br>
 Linkdin: https://www.linkedin.com/in/deepak-kumar-b3181a236/  <br>
 Instagram: https://www.instagram.com/uffh_rn/ <br>
